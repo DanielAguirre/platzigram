@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Platzigram</string>
+    <string name="hint_username">User name</string>
+    <string name="hint_password">Contraseña</string>
+    <string name="text_bubtton_login">Login</string>
+    <string name="create_here">Crea una aqui</string>
+    <string name="hint_name">Nombre</string>
+    <string name="text_bubtton_createaccount">Unete</string>
+    <string name="secondword_detail">Me gusta</string>
+</resources>
